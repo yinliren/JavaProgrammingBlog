@@ -1,5 +1,5 @@
 # Using Lock Interface to Protect Multithreading Security in Java
-[Source Code]()
+[Source Code](https://github.com/yinliren/JavaProgrammingBlog/blob/master/Java%20Concurrency/LockTest.java)
 First of all, let's see a snippet of code to simulate a ticket selling program in multithreading.
 
 ```package Test;
